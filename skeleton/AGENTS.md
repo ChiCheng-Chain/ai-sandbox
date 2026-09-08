@@ -35,6 +35,12 @@
 - 状态流转：`learning` → 考验通过 → `mastered`（进入记忆维护期）→ 任意时刻可 `paused`。考验未通过不改变状态，只更新记忆数据。
 - 同一主题的迭代都在原目录进行，不为"再学一遍"开新目录。
 
+## Demo 代码 `[Required]`
+
+- 涉及可运行 demo 的主题，在主题目录下建 `demos/` 子目录；每个 demo 一个子文件夹，**必须**附极简 `README.md`：运行命令、预期观察点、对应知识点。复习时依据它独立重跑，"真实运行结果"是标准答案的外部参照。
+- 运行环境按**每主题一个**管理：`demos/` 根下放一份依赖清单（requirements.txt / package.json 等），同主题 demo 共用一个环境；个别 demo 依赖冲突时才允许单独开环境并在该 demo README 中说明。
+- 依赖清单落盘提交；安装产物与运行垃圾（node_modules、__pycache__、.venv、dist 等）已入 .gitignore，永不入库。
+
 ## 同步义务 `[Required]`
 
 - 任何主题操作（开题、考验、复习、状态变更）必须在同一提交内同步 `learning/INDEX.md` 与该主题 `README.md` 状态卡。
