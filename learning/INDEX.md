@@ -4,7 +4,7 @@
 
 | 开题日期 | 主题 | 领域标签 | 状态 | 下次复习参考 | 一句话摘要 |
 |---|---|---|---|---|---|
-| 2026-09-08 | [ai-code-judgment](20260908-ai-code-judgment/README.md) | Java/代码审查/判断力 | learning | — | 对 AI 生成的 Java 后端代码建立"看出会在什么条件下出事"的直觉 |
+| 2026-09-08 | [ai-code-judgment](20260908-ai-code-judgment/README.md) | Java/代码审查/判断力 | paused | 2026-09-09（KP1/KP2/KP2b 抽检到期） | 对 AI 生成的 Java 后端代码建立"看出会在什么条件下出事"的直觉；已固化 4 条验收规则 |
 
 ## 状态枚举
 
