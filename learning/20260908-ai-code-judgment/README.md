@@ -1,0 +1,36 @@
+# 20260908-ai-code-judgment（AI 代码审查判断力 · Java 后端）
+
+## 状态
+
+`learning`（2026-09-08 开题）
+
+## 主题目标
+
+训练对 AI 生成 Java 后端代码的判断力。学习者背景：初级 Java 工程师 + AI 负责人工作流（不看代码，只验需求与测试），当前判断回路缺"代码质量闸"。训练重点不是读语法，而是建立"看出这段代码会在什么条件下出事"的直觉。
+
+## 知识点汇总
+
+| 知识点 | 方向 | 稳定性 S（天） | 难度 D | 最近考核 | 结果 |
+|---|---|---|---|---|---|
+| KP1-null-safety | NPE 与空值处理 | 未考核 | — | — | — |
+| KP2-authz-injection | 越权访问与注入 | 未考核 | — | — | — |
+| KP3-tx-concurrency | 事务与并发（超卖类） | 未考核 | — | — | — |
+| KP4-perf-antipatterns | 性能反模式（N+1 等） | 未考核 | — | — | — |
+| KP5-swallowed-errors | 错误吞没 | 未考核 | — | — | — |
+
+## 薄弱点
+
+（待第一轮考核后填充）
+
+## 参考资料
+
+- 《Effective Java》第 3 版 — 空值、equals/hashCode 等章节
+- OWASP Top 10 — 越权与注入
+- 阿里巴巴 Java 开发手册 — 命名、事务、并发规约
+
+## 文件导航
+
+- [notes.md](notes.md) — 学习笔记（讲解→复述→纠正沉淀）
+- [challenges.md](challenges.md) — 考验记录（含反方证据与 S/D 更新）
+- [reviews.md](reviews.md) — 复习记录
+- [demos/](demos/) — 待审代码素材与运行说明
