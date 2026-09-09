@@ -5,7 +5,7 @@
 | 开题日期 | 主题 | 领域标签 | 状态 | 下次复习参考 | 一句话摘要 |
 |---|---|---|---|---|---|
 | 2026-09-08 | [ai-code-judgment](20260908-ai-code-judgment/README.md) | Java/代码审查/判断力 | paused | 2026-09-12（KP1 抽检） | 对 AI 生成的 Java 后端代码建立"看出会在什么条件下出事"的直觉；已固化 4 条验收规则 |
-| 2026-09-08 | [logic-psychology](20260908-logic-psychology/README.md) | 逻辑学/心理学/推理决策 | learning | 2026-09-12（KP1/KP2 抽检） | 演绎推理 + 认知偏差，学科向学习，落地推理与决策能力；KP1/KP2 已收口 |
+| 2026-09-08 | [logic-psychology](20260908-logic-psychology/README.md) | 逻辑学/心理学/推理决策 | learning | 2026-09-10（KP5）/ 09-11（KP2-KP4）/ 09-12（KP1） | 演绎推理+认知偏差+论证体检五 KP 收官，固化 10 条验收规则，进入抽检维护期 |
 
 ## 状态枚举
 
