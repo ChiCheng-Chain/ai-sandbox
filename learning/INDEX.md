@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 | 2026-09-08 | [ai-code-judgment](20260908-ai-code-judgment/README.md) | Java/代码审查/判断力 | paused | 2026-09-12（KP1 抽检） | 对 AI 生成的 Java 后端代码建立"看出会在什么条件下出事"的直觉；已固化 4 条验收规则 |
 | 2026-09-08 | [logic-psychology](20260908-logic-psychology/README.md) | 逻辑学/心理学/推理决策 | learning | 2026-09-10（KP5）/ 09-11（KP2-KP4）/ 09-12（KP1） | 演绎推理+认知偏差+论证体检五 KP 收官，固化 10 条验收规则，进入抽检维护期 |
-
+| 2026-09-09 | [probability-thinking](20260909-probability-thinking/README.md) | 概率/统计/推理决策 | learning | — | 概率统计思维地基：贝叶斯、基础比率、期望值、因果、样本，承接逻辑主题 |
 ## 状态枚举
 
 `learning`（学习中）/ `mastered`（已考验通过，进入记忆维护期）/ `paused`（暂停）
